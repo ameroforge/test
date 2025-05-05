@@ -1,0 +1,22 @@
+site_name: Wave wet en regelgeving
+
+theme:
+  name: material
+  langueage: en
+  logo: logo.png
+  favicon: favicon.png
+ 
+# Copyright
+copyright: Copyright © 2024 Wave Testserver
+
+site_url: https://waveapv.wavetestserver.nl
+
+repo_name: GitHub
+repo_url: https://github.com/Maurokrekels/Wave-APV
+
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Keybinds: keybinds.md
+  - Voertuigenlijst: voertuigenlijst.md
+  - Wapens & Items: weapon-items.md
